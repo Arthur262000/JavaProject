@@ -1,0 +1,5 @@
+#netbeans specific
+
+JavaProject/*
+!JavaProject/project.properties
+!JavaProject/project.xml
